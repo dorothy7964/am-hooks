@@ -11,7 +11,6 @@
 
 `npm i @am-hooks/use-title` <br><br>
 
-
 ## Usage 1
 
 ```js
@@ -26,7 +25,6 @@ const App = () => {
 ```
 <br><br>
 
-
 ## Usage 2
 
 ```js
@@ -36,7 +34,7 @@ import useTitle from "@am-hooks/use-title";
 const App = () => {
   const titleUpdater = useTitle("Loading...");
   setTimeout(() => titleUpdater("Home"), 3000);
-  
+
   return <h1>HELLO</h1>;
 }
 ```
@@ -48,3 +46,4 @@ const App = () => {
 | -------- | ------ | ------------------------------------------ | -------- |
 | title    | string | The title you want to use on your document | yes      |
 
+<br><br>
