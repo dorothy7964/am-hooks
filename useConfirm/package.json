@@ -1,0 +1,22 @@
+{
+  "name": "@am-hooks/use-confirm",
+  "version": "1.0.0",
+  "description": "When the user clicks the delete button, show the message before firing the event",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorothy7964/am-hooks.git"
+  },
+  "keywords": [
+    "window.confirm"
+  ],
+  "author": "wooami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dorothy7964/am-hooks/issues"
+  },
+  "homepage": "https://github.com/dorothy7964/am-hooks#readme"
+}
