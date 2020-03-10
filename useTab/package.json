@@ -1,0 +1,22 @@
+{
+  "name": "@am-hooks/use-tab",
+  "version": "1.0.0",
+  "description": "Show only the content of the currently selected section",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorothy7964/am-hooks.git"
+  },
+  "keywords": [
+    "tab"
+  ],
+  "author": "wooami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dorothy7964/am-hooks/issues"
+  },
+  "homepage": "https://github.com/dorothy7964/am-hooks#readme"
+}
