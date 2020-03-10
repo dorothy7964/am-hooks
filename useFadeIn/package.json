@@ -1,0 +1,27 @@
+{
+  "name": "@am-hooks/use-fade-in",
+  "version": "1.0.0",
+  "description": "To slowly see the animation",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dorothy7964/am-hooks.git"
+  },
+  "keywords": [
+    "scroll",
+    "coords",
+    "w/y",
+    "fadein",
+    "usefadeIn"
+  ],
+  "author": "wooami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dorothy7964/am-hooks/issues"
+  },
+  "homepage": "https://github.com/dorothy7964/am-hooks#readme",
+  "peerDependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
