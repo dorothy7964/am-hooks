@@ -1,12 +1,7 @@
 # am-hooks
 <br/><br/>
 
-DocumentationURL
-npmURL
 ## Each hook has its own pacakge
-
-
-
 
 | Hook            | node_modules  | NPM Page Name                             | Documentation                             | NPM Page                                                          |
 | --------------- | ------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------- | 
@@ -25,3 +20,4 @@ npmURL
 | useNotification  |    X         | @am-hooks/use-notification                 | [Documentation](https://github.com/dorothy7964/am-hooks/tree/master/useNotification)         | [NPM Page](https://www.npmjs.com/package/@am-hooks/use-notification)                                                |
 | useAxios         |    O         | @am-hooks/use-axios                        | [Documentation](https://github.com/dorothy7964/am-hooks/tree/master/useAxios)         | [NPM Page](https://www.npmjs.com/package/@am-hooks/use-axios)                                                |
 
+<br/><br/>
